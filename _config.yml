@@ -8,8 +8,8 @@ description: ryanchoi80 blog
 #   Google search results) and in your feed.xml site description.
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
+# url: "http://ryanchoi80.github.io" # the base hostname & protocol for your site
+# twitter_username: ryanchoi80
 github_username: ryanchoi80
 permalink: /:year/:month/:day/:title/
 # this is the url root of the view source link on the footer page.
