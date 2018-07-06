@@ -1,0 +1,14 @@
+---
+layout: post
+comments: true
+categories: til
+---
+
+<h3>Modern C++</h3>
+<pre style="white-space: pre-wrap;">
+// C++17 Folder expression : 가변인자를 매개변수로 받아주는 기능
+template <typename... Args>
+auto sum(Args&&... args) {
+   return (args + ... + 0);
+}
+</pre>
